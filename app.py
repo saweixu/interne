@@ -36,6 +36,16 @@ TOOLS = [
         "description": "Detect controlled HS codes in invoice Excel files.",
         "url": "https://controlhscheck.streamlit.app/",
     },
+    {
+        "name": "EWTP invoice editor/EWTP发票准备",
+        "description": "Prepare invoice for upload on EWTP.",
+        "url": "https://controlhscheck.streamlit.app/",
+    },
+    {
+        "name": "E-Origin invoice editor/E-Origin发票准备",
+        "description": "Prepare invoice for upload on E-Origin.",
+        "url": "https://controlhscheck.streamlit.app/",
+    },
 ]
 
 
