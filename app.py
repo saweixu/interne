@@ -46,6 +46,11 @@ TOOLS = [
         "description": "Prepare invoice for upload on E-Origin.",
         "url": "https://eoriginprepare.streamlit.app/",
     },
+    {
+        "name": "Invoice info extract/提取发票信息",
+        "description": "Extract needed info on invoices.",
+        "url": "https://invoicextract.streamlit.app/",
+    },
 ]
 
 
