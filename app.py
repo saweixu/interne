@@ -17,22 +17,22 @@ LOGO_CANDIDATES = (
 
 TOOLS = [
     {
-        "name": "E-Origin Duty Calculator E-Origin关税计算",
+        "name": "E-Origin Duty Calculator/E-Origin关税计算",
         "description": "Calculate and recap IMA duty amounts from PDF files.",
         "url": "https://eoduty.streamlit.app/",
     },
     {
-        "name": "VAT + EORI Checker",
+        "name": "VAT + EORI Checker/税号检测",
         "description": "Check VAT and EORI information and generate screenshots.",
         "url": "https://athinavatcheck.streamlit.app/",
     },
     {
-        "name": "Invoice Check + SGS Generator",
+        "name": "SGS Generator/SGS T1模板生成",
         "description": "Run invoice checks and generate the T1_SGS file.",
         "url": "https://athinainchecksgs.streamlit.app/",
     },
     {
-        "name": "Controlled HS Checker",
+        "name": "Controlled HS Checker/查验HS检测",
         "description": "Detect controlled HS codes in invoice Excel files.",
         "url": "https://controlhscheck.streamlit.app/",
     },
