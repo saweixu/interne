@@ -17,7 +17,7 @@ LOGO_CANDIDATES = (
 
 TOOLS = [
     {
-        "name": "EO Duty Calculator",
+        "name": "E-Origin Duty Calculator E-Origin关税计算",
         "description": "Calculate and recap IMA duty amounts from PDF files.",
         "url": "https://eoduty.streamlit.app/",
     },
