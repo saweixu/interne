@@ -22,7 +22,7 @@ TOOLS = [
         "url": "https://eoduty.streamlit.app/",
     },
     {
-        "name": "VAT + EORI Checker/税号检测截图",
+        "name": "VAT + EORI Checker/批量税号检查+截图",
         "description": "Check VAT and EORI information and generate screenshots.",
         "url": "https://athinavatcheck.streamlit.app/",
     },
