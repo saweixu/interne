@@ -39,7 +39,7 @@ TOOLS = [
     {
         "name": "EWTP invoice editor/EWTP发票准备",
         "description": "Prepare invoice for upload on EWTP.",
-        "url": "https://controlhscheck.streamlit.app/",
+        "url": "https://ewtpprepare.streamlit.app/",
     },
     {
         "name": "E-Origin invoice editor/E-Origin发票准备",
