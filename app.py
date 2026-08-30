@@ -17,12 +17,12 @@ LOGO_CANDIDATES = (
 
 TOOLS = [
     {
-        "name": "E-Origin Duty Calculator/E-Origin关税计算",
+        "name": "E-Origin Duty Calculator/E-Origin税金单关税计算",
         "description": "Calculate and recap IMA duty amounts from PDF files.",
         "url": "https://eoduty.streamlit.app/",
     },
     {
-        "name": "VAT + EORI Checker/税号检测",
+        "name": "VAT + EORI Checker/税号检测截图",
         "description": "Check VAT and EORI information and generate screenshots.",
         "url": "https://athinavatcheck.streamlit.app/",
     },
@@ -47,7 +47,7 @@ TOOLS = [
         "url": "https://eoriginprepare.streamlit.app/",
     },
     {
-        "name": "Invoice info extract/提取发票信息",
+        "name": "Invoice info extract/发票信息提取",
         "description": "Extract multi info in invoices.",
         "url": "https://invoicextract.streamlit.app/",
     },
