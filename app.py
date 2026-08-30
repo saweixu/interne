@@ -48,7 +48,7 @@ TOOLS = [
     },
     {
         "name": "Invoice info extract/发票信息提取",
-        "description": "Extract multi info in invoices.",
+        "description": "Extract multiple details from invoices.",
         "url": "https://invoicextract.streamlit.app/",
     },
 ]
