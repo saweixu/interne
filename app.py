@@ -27,7 +27,7 @@ TOOLS = [
         "url": "https://athinavatcheck.streamlit.app/",
     },
     {
-        "name": "SGS Generator/SGS T1模板生成",
+        "name": "SGS ROT T1 Generator/SGS 鹿特丹T1模板生成",
         "description": "Run invoice checks and generate the T1_SGS file.",
         "url": "https://athinainchecksgs.streamlit.app/",
     },
