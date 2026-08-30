@@ -44,7 +44,7 @@ TOOLS = [
     {
         "name": "E-Origin invoice editor/E-Origin发票准备",
         "description": "Prepare invoice for upload on E-Origin.",
-        "url": "https://controlhscheck.streamlit.app/",
+        "url": "https://eoriginprepare.streamlit.app/",
     },
 ]
 
