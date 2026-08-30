@@ -267,7 +267,7 @@ def render_header():
         unsafe_allow_html=True,
     )
     st.markdown(
-        f'<div class="tool-count">{len(TOOLS)} tools available for daily customs and invoice work.</div>',
+        f'<div class="tool-count">{len(TOOLS)} tools available for daily customs and invoice workflows.</div>',
         unsafe_allow_html=True,
     )
 
