@@ -69,7 +69,7 @@ TOOLS = [
         "subtitle": "发票信息提取",
         "description": "Extract multiple details from invoices.",
         "category": "Extract",
-        "url": "https://invoiceinfoextract.streamlit.app/",
+        "url": "https://invoicextract.streamlit.app/",
         "accent": "#16a34a",
     },
 ]
