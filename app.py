@@ -79,6 +79,7 @@ def configure_page():
 
     st.sidebar.markdown("### Athina Logistics")
     st.sidebar.caption("Global Access")
+    st.sidebar.caption("By Saw X")
 
 
 def render_tool_grid():
