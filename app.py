@@ -37,7 +37,7 @@ TOOLS = [
         "subtitle": "SGS 鹿特丹T1模板生成",
         "description": "Run invoice checks and generate the T1_SGS file.",
         "category": "SGS",
-        "url": "https://athinainchecksgs.streamlit.app/",
+        "url": "https://checksgst1.streamlit.app/",
         "accent": "#7c3aed",
     },
     {
