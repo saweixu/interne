@@ -72,6 +72,14 @@ TOOLS = [
         "url": "https://invoicextract.streamlit.app/",
         "accent": "#16a34a",
     },
+    {
+        "title": "Invoice Split",
+        "subtitle": "箱单发票拆分",
+        "description": "Split boxes in one box.",
+        "category": "Invoice",
+        "url": "https://splitinvoice.streamlit.app/",
+        "accent": "#16a34a",
+    },
 ]
 
 
