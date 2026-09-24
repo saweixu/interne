@@ -80,6 +80,14 @@ TOOLS = [
         "url": "https://splitinvoice.streamlit.app/",
         "accent": "#16a34a",
     },
+    {
+        "title": "Shipping Invoice Extract",
+        "subtitle": "船司发票信息提取",
+        "description": "Extract and rename shipping invoices.",
+        "category": "Invoice",
+        "url": "https://invoiceshipping.streamlit.app/",
+        "accent": "#16a34a",
+    },
 ]
 
 
