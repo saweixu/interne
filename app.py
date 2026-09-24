@@ -302,9 +302,9 @@ def render_tool_card(col, tool):
 
 
 def render_tool_grid():
-    for row_start in range(0, len(TOOLS), 2):
-        cols = st.columns(2, gap="large")
-        for col, tool in zip(cols, TOOLS[row_start : row_start + 2]):
+    for row_start in range(0, len(TOOLS), 3):
+        cols = st.columns(3, gap="large")
+        for col, tool in zip(cols, TOOLS[row_start : row_start + 3]):
             render_tool_card(col, tool)
         st.write("")
 
