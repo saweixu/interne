@@ -81,8 +81,8 @@ TOOLS = [
         "accent": "#16a34a",
     },
     {
-        "title": "Shipping Invoice Extract",
-        "subtitle": "船司发票信息提取",
+        "title": "Shipping Invoice Extract+POP Rename",
+        "subtitle": "船司发票信息提取+POP改名",
         "description": "Extract and rename shipping invoices.",
         "category": "Invoice",
         "url": "https://invoiceshipping.streamlit.app/",
